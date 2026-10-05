@@ -1,0 +1,24 @@
+# Python
+__pycache__/
+*.py[cod]
+*.env
+venv/
+.env.local
+
+# Node
+node_modules/
+.next/
+.env.local
+.env.production
+
+# Jupyter
+.ipynb_checkpoints/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Données sensibles
+/docs/etude_terrain/resultats/raw/
+*.csv
+*.xlsx
