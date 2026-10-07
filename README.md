@@ -92,8 +92,5 @@ compétitif. Tous droits réservés - Équipe LUNA 2026.
 
 - Emails :
   - [edohbedigodwin@gmail.com](mailto:edohbedigodwin@gmail.com)
-  - [kossivitinek@gmail.com](mailto:kossivitinek@gmail.com)
-  - [achillethales@gmail.com](mailto:achillethales@gmail.com)
-  - [amoeniestherblessing@gmail.com](mailto:amoeniestherblessing@gmail.com)
 
 - Hackathon : [AI4Youth NEURACTIF Lomé 2026](https://ai4youth.neuractif.org)
